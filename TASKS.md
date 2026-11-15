@@ -154,10 +154,11 @@ Open https://adqm0001.github.io/lunar-window/ with DevTools console open (F12). 
   - **Spec:** helper reads `web/public/data/ephem.json`, `ephem.bin` (float32), `dsn.bin` (int8) and `sites.json` with `node:fs`, and builds an `Ephemeris` (`{ startMs, stepHours, count, data, dsn, stations }`, see `src/data/load.ts`). Then `siteThermal(ephem, apollo11, 0, 24 * 365)`: `max ∈ [370, 400]`, `min ∈ [80, 100]`. `siteThermal(ephem, shackletonFloor, 0, 8760)`: `max < 110`, `iceDepth === 0`.
   - **Verify:** `npm test` green in < 10 s.
 
-- [ ] **25. Run tests in CI** (S) — Depends on 20 — taken: malqedra
+- [x] **25. Run tests in CI** (S) — Depends on 20 — taken: malqedra
   - **Files:** `.github/workflows/pages.yml`.
   - **Spec:** in the `build` job, add `- name: Test` / `working-directory: web` / `run: npm test` between Install and Build. A failing test must stop the deploy.
-  - **Verify:** `npm test` passes locally and the step order in the YAML is Install → Test → Build. After merge, the Actions run on `main` shows the Test step passing. (The workflow only runs on `main`; to see a failure block the deploy, temporarily break a test on `main` in a test fork.)
+  - **Verify:** `npm test` passes locally and the step order in the YAML is Install → Test → Build. After merge, the Actions run on `main` shows the Test step passing. To verify failure handling, use an isolated branch in a test fork with an intentional failing test and a matching temporary push trigger, then remove the fixture and restore the trigger.
+  - **Verified:** [upstream main run](https://github.com/adqm0001/lunar-window/actions/runs/43649663217) passed Test, Build, and Deploy. In the [controlled fork run](https://github.com/malqedra/lunar-window/actions/runs/43666536783), the intentional test failure skipped Build, artifact upload, and Deploy. Local tests, TypeScript checking, production build, and app smoke check passed.
 
 - [x] **26. Lazy-load tool panels** (S)
   - **Files:** `src/App.tsx`.
