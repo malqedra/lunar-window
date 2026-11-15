@@ -1,0 +1,26 @@
+{
+  "Peary rim P": {
+    "lat": 89.726,
+    "lon": 123.11,
+    "cell_percent": 61.10158419565074,
+    "best_within_1km_percent": 65.29917722770516,
+    "best_within_1km_percentile": 99.994140625,
+    "cell_percentile": 99.984375,
+    "exact_point_720_direction_percent": 73.25965771086747
+  },
+  "Peary rim P0 (2 m)": {
+    "lat": 89.8521,
+    "lon": 109.8,
+    "cell_percent": 35.68493216195742,
+    "best_within_1km_percent": 58.13796797508864,
+    "best_within_1km_percentile": 99.970703125,
+    "exact_point_720_direction_percent": 76.44982261419034
+  },
+  "map": {
+    "year": 2026,
+    "hourly_samples": 8760,
+    "points": 102400,
+    "median_percent": 10.972947424872377,
+    "max_percent": 83.95243406921867
+  }
+}

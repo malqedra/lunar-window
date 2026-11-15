@@ -1,0 +1,30 @@
+{
+  "north_rebuild_byte_identical": true,
+  "north_sha256": {
+    "field_north.json": "bb248ba3956d8e43e9b0e81d40bb7e2a5b11a69ef4b7ce5befde0edaf571bbdc",
+    "field_north.bin.gz": "9f865bd932d71e75c105a59005453ed80de7d25a44b067875feee6defe9920cc",
+    "heights_north.bin.gz": "f030e79751c20ca2c6e8445586a8eb6e5bddea0b80b74446713113d51ade9da8",
+    "slope_north.bin.gz": "772cf9d35d9dda2c466e75b81721e1e143c1283b265f2edada727c7a7fe0eeb8"
+  },
+  "south_old_and_new_builder_arrays_and_metadata_identical": true,
+  "pre_existing_rebuild_vs_committed_byte_differences": {
+    "field_pole.bin.gz": 2,
+    "heights_pole.bin.gz": 0,
+    "slope_pole.bin.gz": 0
+  },
+  "north_full_encoded_values_checked": 18432000,
+  "raw_horizon_range_deg": [
+    -3.1127591133117676,
+    41.152889251708984
+  ],
+  "clipped_above_17_5_deg": 498877,
+  "independent_python_points": 49,
+  "independent_python_max_error_deg": 3.4332275390625e-05,
+  "north_mesh_values_checked": 1638400,
+  "north_mesh_max_rounding_error_m": 0.5,
+  "north_raw_dem_sha256": {
+    "ldem_85n_40m.img": "aa9ecfc9e0d48bcf24a35d5480c0823a8cbd59157cd539eb429f427206610033",
+    "ldem_75n_240m.img": "c63d22385f182f276dd90adb7755e3070e725c3cd50b6d0d20d76a94edbba41b"
+  },
+  "south_old_cli_raw_float_values_identical": 18432000
+}
