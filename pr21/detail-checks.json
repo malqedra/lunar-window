@@ -1,0 +1,66 @@
+{
+  "detailChecks": [
+    {
+      "layer": "Sun %",
+      "palette": "Default colors",
+      "selected": "true",
+      "paused": true
+    },
+    {
+      "layer": "Sun %",
+      "palette": "Viridis",
+      "selected": "true",
+      "paused": true
+    },
+    {
+      "layer": "Earth %",
+      "palette": "Default colors",
+      "selected": "true",
+      "paused": true
+    },
+    {
+      "layer": "Earth %",
+      "palette": "Viridis",
+      "selected": "true",
+      "paused": true
+    },
+    {
+      "layer": "Sun+DSN",
+      "palette": "Default colors",
+      "selected": "true",
+      "paused": true
+    },
+    {
+      "layer": "Sun+DSN",
+      "palette": "Viridis",
+      "selected": "true",
+      "paused": true
+    },
+    {
+      "layer": "Night",
+      "palette": "Default colors",
+      "selected": "true",
+      "paused": true
+    },
+    {
+      "layer": "Night",
+      "palette": "Viridis",
+      "selected": "true",
+      "paused": true
+    },
+    {
+      "layer": "Temp",
+      "palette": "Default colors",
+      "selected": "true",
+      "paused": true
+    },
+    {
+      "layer": "Temp",
+      "palette": "Viridis",
+      "selected": "true",
+      "paused": true
+    }
+  ],
+  "defaultPersisted": "true",
+  "consoleErrors": []
+}

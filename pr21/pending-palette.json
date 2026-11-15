@@ -1,0 +1,48 @@
+{
+  "before": {
+    "requests": 1,
+    "gpu": 0,
+    "paints": 0,
+    "last": {
+      "requests": {
+        "layer": "sun",
+        "hour": 4800,
+        "rangeDays": 30
+      }
+    }
+  },
+  "afterChange": {
+    "requests": 1,
+    "gpu": 0,
+    "paints": 0,
+    "last": {
+      "requests": {
+        "layer": "sun",
+        "hour": 4800,
+        "rangeDays": 30
+      }
+    }
+  },
+  "afterResolve": {
+    "requests": 1,
+    "gpu": 1,
+    "paints": 1,
+    "last": {
+      "requests": {
+        "layer": "sun",
+        "hour": 4800,
+        "rangeDays": 30
+      },
+      "gpu": {
+        "kind": "light",
+        "start": 4800,
+        "hours": 720
+      },
+      "paints": {
+        "layer": "sun",
+        "palette": "viridis",
+        "model": 1
+      }
+    }
+  }
+}

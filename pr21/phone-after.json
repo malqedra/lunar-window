@@ -1,0 +1,33 @@
+{
+  "phoneChecks": [
+    {
+      "palette": "Default colors",
+      "key": "Enter",
+      "selected": "true",
+      "paused": true
+    },
+    {
+      "palette": "Viridis",
+      "key": "Space",
+      "selected": "true",
+      "paused": true
+    },
+    {
+      "palette": "Default colors",
+      "key": "Space",
+      "selected": "true",
+      "paused": true
+    },
+    {
+      "palette": "Viridis",
+      "key": "Enter",
+      "selected": "true",
+      "paused": true
+    }
+  ],
+  "persisted": "true",
+  "phoneLayout": {
+    "viewport": 375,
+    "width": 375
+  }
+}

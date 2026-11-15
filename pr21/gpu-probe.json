@@ -1,0 +1,252 @@
+[
+  {
+    "layer": "Sun %",
+    "before": {
+      "requests": 1,
+      "gpu": 1,
+      "paints": 1,
+      "last": {
+        "requests": {
+          "layer": "sun",
+          "hour": 4800,
+          "rangeDays": 30
+        },
+        "gpu": {
+          "kind": "light",
+          "start": 4800,
+          "hours": 720
+        },
+        "paints": {
+          "layer": "sun",
+          "palette": "default",
+          "model": 1
+        }
+      }
+    },
+    "after": {
+      "requests": 1,
+      "gpu": 1,
+      "paints": 6,
+      "last": {
+        "requests": {
+          "layer": "sun",
+          "hour": 4800,
+          "rangeDays": 30
+        },
+        "gpu": {
+          "kind": "light",
+          "start": 4800,
+          "hours": 720
+        },
+        "paints": {
+          "layer": "sun",
+          "palette": "viridis",
+          "model": 1
+        }
+      }
+    },
+    "timeBefore": "Play\n−1d\n+1d\n● Rec\n1 h/s\n6 h/s\n1 d/s\n4 d/s\n7d\n30d\n90d\n365d\n2026-07-20 00:00 UTC",
+    "timeAfter": "Pause\n−1d\n+1d\n● Rec\n1 h/s\n6 h/s\n1 d/s\n4 d/s\n7d\n30d\n90d\n365d\n2026-07-25 10:00 UTC",
+    "playing": true
+  },
+  {
+    "layer": "Earth %",
+    "before": {
+      "requests": 3,
+      "gpu": 2,
+      "paints": 9,
+      "last": {
+        "requests": {
+          "layer": "earth",
+          "hour": 4920,
+          "rangeDays": 30
+        },
+        "gpu": {
+          "kind": "light",
+          "start": 4920,
+          "hours": 720
+        },
+        "paints": {
+          "layer": "earth",
+          "palette": "default",
+          "model": 2
+        }
+      }
+    },
+    "after": {
+      "requests": 3,
+      "gpu": 2,
+      "paints": 14,
+      "last": {
+        "requests": {
+          "layer": "earth",
+          "hour": 4920,
+          "rangeDays": 30
+        },
+        "gpu": {
+          "kind": "light",
+          "start": 4920,
+          "hours": 720
+        },
+        "paints": {
+          "layer": "earth",
+          "palette": "viridis",
+          "model": 2
+        }
+      }
+    },
+    "timeBefore": "2026-07-25 17:12",
+    "timeAfter": "2026-07-31 13:00",
+    "playing": true
+  },
+  {
+    "layer": "Sun+DSN",
+    "before": {
+      "requests": 5,
+      "gpu": 3,
+      "paints": 17,
+      "last": {
+        "requests": {
+          "layer": "link",
+          "hour": 5064,
+          "rangeDays": 30
+        },
+        "gpu": {
+          "kind": "light",
+          "start": 5064,
+          "hours": 720
+        },
+        "paints": {
+          "layer": "link",
+          "palette": "default",
+          "model": 3
+        }
+      }
+    },
+    "after": {
+      "requests": 5,
+      "gpu": 3,
+      "paints": 22,
+      "last": {
+        "requests": {
+          "layer": "link",
+          "hour": 5064,
+          "rangeDays": 30
+        },
+        "gpu": {
+          "kind": "light",
+          "start": 5064,
+          "hours": 720
+        },
+        "paints": {
+          "layer": "link",
+          "palette": "viridis",
+          "model": 3
+        }
+      }
+    },
+    "timeBefore": "2026-07-31 19:24",
+    "timeAfter": "2026-08-06 07:16",
+    "playing": true
+  },
+  {
+    "layer": "Night",
+    "before": {
+      "requests": 7,
+      "gpu": 4,
+      "paints": 25,
+      "last": {
+        "requests": {
+          "layer": "night",
+          "hour": 5208,
+          "rangeDays": 30
+        },
+        "gpu": {
+          "kind": "light",
+          "start": 5208,
+          "hours": 720
+        },
+        "paints": {
+          "layer": "night",
+          "palette": "default",
+          "model": 4
+        }
+      }
+    },
+    "after": {
+      "requests": 7,
+      "gpu": 4,
+      "paints": 30,
+      "last": {
+        "requests": {
+          "layer": "night",
+          "hour": 5208,
+          "rangeDays": 30
+        },
+        "gpu": {
+          "kind": "light",
+          "start": 5208,
+          "hours": 720
+        },
+        "paints": {
+          "layer": "night",
+          "palette": "viridis",
+          "model": 4
+        }
+      }
+    },
+    "timeBefore": "2026-08-06 14:29",
+    "timeAfter": "2026-08-11 22:18",
+    "playing": true
+  },
+  {
+    "layer": "Temp",
+    "before": {
+      "requests": 9,
+      "gpu": 6,
+      "paints": 33,
+      "last": {
+        "requests": {
+          "layer": "temp",
+          "hour": 5352,
+          "rangeDays": 30
+        },
+        "gpu": {
+          "kind": "thermal",
+          "start": 5352,
+          "hours": 720
+        },
+        "paints": {
+          "layer": "temp",
+          "palette": "default",
+          "model": 6
+        }
+      }
+    },
+    "after": {
+      "requests": 9,
+      "gpu": 6,
+      "paints": 38,
+      "last": {
+        "requests": {
+          "layer": "temp",
+          "hour": 5352,
+          "rangeDays": 30
+        },
+        "gpu": {
+          "kind": "thermal",
+          "start": 5352,
+          "hours": 720
+        },
+        "paints": {
+          "layer": "temp",
+          "palette": "viridis",
+          "model": 6
+        }
+      }
+    },
+    "timeBefore": "2026-08-12 08:42",
+    "timeAfter": "2026-08-17 14:59",
+    "playing": true
+  }
+]

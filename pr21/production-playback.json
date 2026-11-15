@@ -1,0 +1,37 @@
+[
+  {
+    "layer": "Sun %",
+    "playing": true,
+    "viridis": "true",
+    "gradient": "background: linear-gradient(90deg, rgb(68, 1, 84) 0%, rgb(71, 45, 123) 12.549%, rgb(59, 82, 139) 25.098%, rgb(44, 114, 142) 37.6471%, rgb(33, 145, 140) 50.1961%, rgb(40, 174, 128) 62.7451%, rgb(94, 201, 98) 75.2941%, rgb(173, 220, 48) 87.8431%, rgb(253, 231, 37) 100%);",
+    "sameGlobalTiming": true
+  },
+  {
+    "layer": "Earth %",
+    "playing": true,
+    "viridis": "true",
+    "gradient": "background: linear-gradient(90deg, rgb(68, 1, 84) 0%, rgb(71, 45, 123) 12.549%, rgb(59, 82, 139) 25.098%, rgb(44, 114, 142) 37.6471%, rgb(33, 145, 140) 50.1961%, rgb(40, 174, 128) 62.7451%, rgb(94, 201, 98) 75.2941%, rgb(173, 220, 48) 87.8431%, rgb(253, 231, 37) 100%);",
+    "sameGlobalTiming": true
+  },
+  {
+    "layer": "Sun+DSN",
+    "playing": true,
+    "viridis": "true",
+    "gradient": "background: linear-gradient(90deg, rgb(68, 1, 84) 0%, rgb(71, 45, 123) 12.549%, rgb(59, 82, 139) 25.098%, rgb(44, 114, 142) 37.6471%, rgb(33, 145, 140) 50.1961%, rgb(40, 174, 128) 62.7451%, rgb(94, 201, 98) 75.2941%, rgb(173, 220, 48) 87.8431%, rgb(253, 231, 37) 100%);",
+    "sameGlobalTiming": true
+  },
+  {
+    "layer": "Night",
+    "playing": true,
+    "viridis": "true",
+    "gradient": "background: linear-gradient(90deg, rgb(68, 1, 84) 0%, rgb(71, 45, 123) 12.549%, rgb(59, 82, 139) 25.098%, rgb(44, 114, 142) 37.6471%, rgb(33, 145, 140) 50.1961%, rgb(40, 174, 128) 62.7451%, rgb(94, 201, 98) 75.2941%, rgb(173, 220, 48) 87.8431%, rgb(253, 231, 37) 100%);",
+    "sameGlobalTiming": true
+  },
+  {
+    "layer": "Temp",
+    "playing": true,
+    "viridis": "true",
+    "gradient": "background: linear-gradient(90deg, rgb(68, 1, 84) 0%, rgb(71, 45, 123) 12.549%, rgb(59, 82, 139) 25.098%, rgb(44, 114, 142) 37.6471%, rgb(33, 145, 140) 50.1961%, rgb(40, 174, 128) 62.7451%, rgb(94, 201, 98) 75.2941%, rgb(173, 220, 48) 87.8431%, rgb(253, 231, 37) 100%);",
+    "sameGlobalTiming": true
+  }
+]
