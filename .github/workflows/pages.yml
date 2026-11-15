@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches: [task-25-ci-failure-check]
   workflow_dispatch:
 
 permissions:
