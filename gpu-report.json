@@ -1,0 +1,101 @@
+{
+  "status": "passed",
+  "synthetic": [
+    {
+      "name": "Encoded horizons: below zero, level, 10 degrees, 15 degrees",
+      "azimuthBins": 180,
+      "expected": [
+        0,
+        0,
+        0.0301536896070458,
+        0.0669872981077807
+      ],
+      "actual": [
+        0,
+        0,
+        0.030153706669807434,
+        0.06698711216449738
+      ],
+      "maxAbsoluteError": 1.8594328332621757e-7,
+      "passed": true
+    },
+    {
+      "name": "Analytic full rings: 30, 45, 90, and 0 degrees",
+      "azimuthBins": 180,
+      "expected": [
+        0.25,
+        0.5,
+        1,
+        0
+      ],
+      "actual": [
+        0.2499999850988388,
+        0.4999999701976776,
+        1,
+        0
+      ],
+      "maxAbsoluteError": 2.9802322387695312e-8,
+      "passed": true
+    },
+    {
+      "name": "Four azimuth bins with partial obstruction and negative horizons",
+      "azimuthBins": 4,
+      "expected": [
+        0.25,
+        0.25,
+        0.125,
+        0
+      ],
+      "actual": [
+        0.25,
+        0.2499999850988388,
+        0.1249999850988388,
+        0
+      ],
+      "maxAbsoluteError": 1.4901161193847656e-8,
+      "passed": true
+    }
+  ],
+  "realField": {
+    "cells": 102400,
+    "azimuthBins": 180,
+    "min": 0,
+    "max": 0.09042380750179291,
+    "maxAbsoluteError": 1.9104322078467018e-7,
+    "tolerance": 0.000002,
+    "shackleton": {
+      "col": 190,
+      "row": 185,
+      "gpu": 0.09042380750179291,
+      "cpu": 0.09042397785550388,
+      "namedSiteFactor": 0.13255524724238152
+    },
+    "openLowSlopeCell": {
+      "row": 4,
+      "col": 213,
+      "slopeDeg": 1,
+      "gpu": 0.00019558380881790072,
+      "cpu": 0.00019558451786200515
+    },
+    "passed": true
+  },
+  "thermalRegression": [
+    {
+      "start": 0,
+      "hours": 720,
+      "comparedChannels": 409600,
+      "differentChannels": 0,
+      "maxAbsoluteDifference": 0,
+      "passed": true
+    },
+    {
+      "start": 4800,
+      "hours": 8760,
+      "comparedChannels": 409600,
+      "differentChannels": 0,
+      "maxAbsoluteDifference": 0,
+      "passed": true
+    }
+  ],
+  "baselineRevision": "515b6b0"
+}

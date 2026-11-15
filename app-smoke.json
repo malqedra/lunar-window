@@ -1,0 +1,6 @@
+{
+  "passed": true,
+  "selectedSite": "Shackleton crater floor",
+  "legend": "Max surface temperature\n20 K\n400 K\nHottest the ground gets in the period, from a heat-flow model of the soil run for every point on your GPU (sunlight on the real slope and horizon, heat soaking into the ground, glowing back to space)\n2026-07-20 → 2026-08-19\nGPU · 102,400 points × 720 steps × 14 soil layers · 52 ms\nSoil physics from Hayne et al. 2017 (Diviner). Leaves out light and heat bounced off nearby slopes, so the darkest crater floors come out colder than measured (~25 K vs 30–50 K).\nWhole Moon · 2,216,448 points × 720 steps · 437 ms\nDetailed area: south pole (C++ engine, 40 m)",
+  "consoleErrors": []
+}

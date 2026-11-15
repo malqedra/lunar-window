@@ -1,0 +1,22 @@
+{
+  "cells": 102400,
+  "azimuthBins": 180,
+  "fieldMin": 0.0,
+  "fieldMax": 0.09042397785550436,
+  "shackleton": {
+    "lat": -89.67,
+    "lon": 129.78,
+    "row": 185,
+    "col": 190,
+    "fieldFactor": 0.09042397785550436,
+    "namedSiteFactor": 0.13255524724238138,
+    "horizonMinDeg": 17.5,
+    "horizonMaxDeg": 17.5
+  },
+  "openLowSlopeCell": {
+    "row": 4,
+    "col": 213,
+    "slopeDeg": 1.0,
+    "factor": 0.0001955845178620052
+  }
+}
