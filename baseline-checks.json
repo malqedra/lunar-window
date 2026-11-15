@@ -1,0 +1,12 @@
+{
+  "opened": {
+    "focus": "✓ Validation",
+    "inside": false,
+    "role": null
+  },
+  "afterTab": {
+    "focus": "⤴ Share view",
+    "inside": false
+  },
+  "escapeLeftOpen": true
+}
