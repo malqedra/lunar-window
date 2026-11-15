@@ -1,0 +1,15 @@
+{
+  "lastCovered": {
+    "time": "Play\n−1d\n+1d\n● Rec\n1 h/s\n6 h/s\n1 d/s\n4 d/s\n7d\n30d\n90d\n365d\n2036-12-18 00:00 UTC",
+    "site": "Shackleton ridge A",
+    "panel": "Landing dates\nSmall CLPS lander · 14-day mission · every 12 h · 7 missions simulated in 93 ms\n7 d\n14 d\n30 d\n3 mo\n6 mo\n12 mo\n✕\n survives  lasts 75%+  40%+  dies early · polar sites (pin 2+ to choose your own) · no date survives the full mission with this lander. Try Sun-tracking panels or a bigger battery in Lander sim\nOnly complete mission windows are shown, through 2036-12-18 00:00 UTC."
+  },
+  "crossing": {
+    "canvasCount": 0,
+    "status": "No complete 30-day mission fits in the remaining data. Choose an earlier landing date or a shorter mission."
+  },
+  "recovered": {
+    "canvasCount": 1,
+    "panel": "Landing dates\nSmall CLPS lander · 7-day mission · every 12 h · 105 missions simulated in 1 ms\n7 d\n14 d\n30 d\n3 mo\n6 mo\n12 mo\n✕\n survives  lasts 75%+  40%+  dies early · polar sites (pin 2+ to choose your own) · most forgiving: Shackleton ridge A (13% of dates work)\nOnly complete mission windows are shown, through 2036-12-25 00:00 UTC."
+  }
+}
