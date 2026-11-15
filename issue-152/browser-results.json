@@ -1,0 +1,18 @@
+{
+  "firstLink": "http://127.0.0.1:5188/#t=7649&s=p0&l=score&r=30&v=3d&p=-89.4634%2C-136.8677%2CBest%2520spot%2520%25231&c=0%2C-89.4634%2C-136.8677%2C-89.0385%2C-136.6691%2C7.34",
+  "secondLink": "http://127.0.0.1:5188/#t=7649&s=p1&l=sun&r=30&v=3d&p=-89.4634%2C-136.8677%2CShared%2520point%2520100%2525%252C%2520A%253BB%3B-88.6735%2C-68.2978%2CBest%2520spot%2520%25232&c=0%2C-88.6735%2C-68.2978%2C-88.4667%2C-83.2559%2C7.2",
+  "browser": "Codex in-app Chromium, Windows",
+  "desktop": [
+    1280,
+    720
+  ],
+  "phone": [
+    375,
+    812
+  ],
+  "firstRestoredName": "Best spot #1",
+  "secondRestoredName": "Best spot #2",
+  "existingName": "Shared point 100%, A;B",
+  "clipboardMatched": true,
+  "errors": []
+}
