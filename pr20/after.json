@@ -1,0 +1,299 @@
+{
+  "checks": [
+    {
+      "modal": "✓ Validation",
+      "activation": "Space",
+      "closed": true,
+      "paused": true,
+      "timeUnchanged": true,
+      "focus": "✓ Validation"
+    },
+    {
+      "modal": "✓ Validation",
+      "activation": "Enter",
+      "closed": true,
+      "paused": true,
+      "timeUnchanged": true,
+      "focus": "✓ Validation"
+    },
+    {
+      "modal": "🔭 Skyline and Sun path",
+      "activation": "Space",
+      "closed": true,
+      "paused": true,
+      "timeUnchanged": true,
+      "focus": "🔭 Skyline and Sun path"
+    },
+    {
+      "modal": "🔭 Skyline and Sun path",
+      "activation": "Enter",
+      "closed": true,
+      "paused": true,
+      "timeUnchanged": true,
+      "focus": "🔭 Skyline and Sun path"
+    },
+    {
+      "modal": "🏁 Artemis III report",
+      "activation": "Space",
+      "closed": true,
+      "paused": true,
+      "timeUnchanged": true,
+      "focus": "🏁 Artemis III report"
+    },
+    {
+      "modal": "🏁 Artemis III report",
+      "activation": "Enter",
+      "closed": true,
+      "paused": true,
+      "timeUnchanged": true,
+      "focus": "🏁 Artemis III report"
+    },
+    {
+      "modal": "✓ Validation",
+      "key": "ArrowRight",
+      "timeUnchanged": true,
+      "paused": true,
+      "cinema": 0
+    },
+    {
+      "modal": "✓ Validation",
+      "key": "Shift+ArrowLeft",
+      "timeUnchanged": true,
+      "paused": true,
+      "cinema": 0
+    },
+    {
+      "modal": "✓ Validation",
+      "key": "h",
+      "timeUnchanged": true,
+      "paused": true,
+      "cinema": 0
+    },
+    {
+      "modal": "✓ Validation",
+      "key": "w",
+      "timeUnchanged": true,
+      "paused": true,
+      "cinema": 0
+    },
+    {
+      "modal": "✓ Validation",
+      "key": "a",
+      "timeUnchanged": true,
+      "paused": true,
+      "cinema": 0
+    },
+    {
+      "modal": "✓ Validation",
+      "key": "s",
+      "timeUnchanged": true,
+      "paused": true,
+      "cinema": 0
+    },
+    {
+      "modal": "✓ Validation",
+      "key": "d",
+      "timeUnchanged": true,
+      "paused": true,
+      "cinema": 0
+    },
+    {
+      "modal": "✓ Validation",
+      "key": "q",
+      "timeUnchanged": true,
+      "paused": true,
+      "cinema": 0
+    },
+    {
+      "modal": "✓ Validation",
+      "key": "e",
+      "timeUnchanged": true,
+      "paused": true,
+      "cinema": 0
+    },
+    {
+      "modal": "✓ Validation",
+      "key": "r",
+      "timeUnchanged": true,
+      "paused": true,
+      "cinema": 0
+    },
+    {
+      "modal": "✓ Validation",
+      "key": "f",
+      "timeUnchanged": true,
+      "paused": true,
+      "cinema": 0
+    },
+    {
+      "modal": "✓ Validation",
+      "escapeClosed": true,
+      "restored": "✓ Validation"
+    },
+    {
+      "modal": "🔭 Skyline and Sun path",
+      "key": "ArrowRight",
+      "timeUnchanged": true,
+      "paused": true,
+      "cinema": 0
+    },
+    {
+      "modal": "🔭 Skyline and Sun path",
+      "key": "Shift+ArrowLeft",
+      "timeUnchanged": true,
+      "paused": true,
+      "cinema": 0
+    },
+    {
+      "modal": "🔭 Skyline and Sun path",
+      "key": "h",
+      "timeUnchanged": true,
+      "paused": true,
+      "cinema": 0
+    },
+    {
+      "modal": "🔭 Skyline and Sun path",
+      "key": "w",
+      "timeUnchanged": true,
+      "paused": true,
+      "cinema": 0
+    },
+    {
+      "modal": "🔭 Skyline and Sun path",
+      "key": "a",
+      "timeUnchanged": true,
+      "paused": true,
+      "cinema": 0
+    },
+    {
+      "modal": "🔭 Skyline and Sun path",
+      "key": "s",
+      "timeUnchanged": true,
+      "paused": true,
+      "cinema": 0
+    },
+    {
+      "modal": "🔭 Skyline and Sun path",
+      "key": "d",
+      "timeUnchanged": true,
+      "paused": true,
+      "cinema": 0
+    },
+    {
+      "modal": "🔭 Skyline and Sun path",
+      "key": "q",
+      "timeUnchanged": true,
+      "paused": true,
+      "cinema": 0
+    },
+    {
+      "modal": "🔭 Skyline and Sun path",
+      "key": "e",
+      "timeUnchanged": true,
+      "paused": true,
+      "cinema": 0
+    },
+    {
+      "modal": "🔭 Skyline and Sun path",
+      "key": "r",
+      "timeUnchanged": true,
+      "paused": true,
+      "cinema": 0
+    },
+    {
+      "modal": "🔭 Skyline and Sun path",
+      "key": "f",
+      "timeUnchanged": true,
+      "paused": true,
+      "cinema": 0
+    },
+    {
+      "modal": "🔭 Skyline and Sun path",
+      "escapeClosed": true,
+      "restored": "🔭 Skyline and Sun path"
+    },
+    {
+      "modal": "🏁 Artemis III report",
+      "key": "ArrowRight",
+      "timeUnchanged": true,
+      "paused": true,
+      "cinema": 0
+    },
+    {
+      "modal": "🏁 Artemis III report",
+      "key": "Shift+ArrowLeft",
+      "timeUnchanged": true,
+      "paused": true,
+      "cinema": 0
+    },
+    {
+      "modal": "🏁 Artemis III report",
+      "key": "h",
+      "timeUnchanged": true,
+      "paused": true,
+      "cinema": 0
+    },
+    {
+      "modal": "🏁 Artemis III report",
+      "key": "w",
+      "timeUnchanged": true,
+      "paused": true,
+      "cinema": 0
+    },
+    {
+      "modal": "🏁 Artemis III report",
+      "key": "a",
+      "timeUnchanged": true,
+      "paused": true,
+      "cinema": 0
+    },
+    {
+      "modal": "🏁 Artemis III report",
+      "key": "s",
+      "timeUnchanged": true,
+      "paused": true,
+      "cinema": 0
+    },
+    {
+      "modal": "🏁 Artemis III report",
+      "key": "d",
+      "timeUnchanged": true,
+      "paused": true,
+      "cinema": 0
+    },
+    {
+      "modal": "🏁 Artemis III report",
+      "key": "q",
+      "timeUnchanged": true,
+      "paused": true,
+      "cinema": 0
+    },
+    {
+      "modal": "🏁 Artemis III report",
+      "key": "e",
+      "timeUnchanged": true,
+      "paused": true,
+      "cinema": 0
+    },
+    {
+      "modal": "🏁 Artemis III report",
+      "key": "r",
+      "timeUnchanged": true,
+      "paused": true,
+      "cinema": 0
+    },
+    {
+      "modal": "🏁 Artemis III report",
+      "key": "f",
+      "timeUnchanged": true,
+      "paused": true,
+      "cinema": 0
+    },
+    {
+      "modal": "🏁 Artemis III report",
+      "escapeClosed": true,
+      "restored": "🏁 Artemis III report"
+    }
+  ],
+  "consoleErrors": []
+}
