@@ -1,0 +1,27 @@
+{
+  "palettePairs": 10,
+  "recordedSelections": 20,
+  "supportedLayers": [
+    "sun",
+    "earth",
+    "link",
+    "night",
+    "temp"
+  ],
+  "views": [
+    "detail-2d",
+    "globe-3d"
+  ],
+  "metricsUnchanged": true,
+  "viridisSurvivedReload": true,
+  "defaultSurvivedReload": true,
+  "phone": {
+    "width": 375,
+    "height": 812,
+    "paletteGroups": 1,
+    "pageOverflow": false,
+    "keyboardControls": true
+  },
+  "slopeKeptOriginalColors": true,
+  "consoleErrors": []
+}

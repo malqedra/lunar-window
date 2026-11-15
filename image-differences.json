@@ -1,0 +1,70 @@
+{
+  "region": [
+    380,
+    350,
+    650,
+    540
+  ],
+  "comparisons": [
+    {
+      "view": "detail",
+      "layer": "sun",
+      "meanChannelDifference": 34.67,
+      "changedPixelFraction": 0.9894
+    },
+    {
+      "view": "detail",
+      "layer": "earth",
+      "meanChannelDifference": 18.7,
+      "changedPixelFraction": 0.9828
+    },
+    {
+      "view": "detail",
+      "layer": "link",
+      "meanChannelDifference": 19.42,
+      "changedPixelFraction": 0.9868
+    },
+    {
+      "view": "detail",
+      "layer": "night",
+      "meanChannelDifference": 64.8,
+      "changedPixelFraction": 0.9923
+    },
+    {
+      "view": "detail",
+      "layer": "temp",
+      "meanChannelDifference": 51.24,
+      "changedPixelFraction": 0.8406
+    },
+    {
+      "view": "globe",
+      "layer": "sun",
+      "meanChannelDifference": 78.2,
+      "changedPixelFraction": 0.9183
+    },
+    {
+      "view": "globe",
+      "layer": "earth",
+      "meanChannelDifference": 19.37,
+      "changedPixelFraction": 0.9078
+    },
+    {
+      "view": "globe",
+      "layer": "link",
+      "meanChannelDifference": 16.97,
+      "changedPixelFraction": 0.9128
+    },
+    {
+      "view": "globe",
+      "layer": "night",
+      "meanChannelDifference": 77.83,
+      "changedPixelFraction": 0.9183
+    },
+    {
+      "view": "globe",
+      "layer": "temp",
+      "meanChannelDifference": 57.14,
+      "changedPixelFraction": 0.917
+    }
+  ]
+}

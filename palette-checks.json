@@ -1,0 +1,212 @@
+[
+  {
+    "layer": "sun",
+    "selection": "default",
+    "view": "detail-2d",
+    "pressed": "true",
+    "gradient": "background: linear-gradient(90deg, rgb(8, 8, 20) 0%, rgb(90, 30, 70) 25%, rgb(220, 90, 40) 55%, rgb(255, 181, 71) 80%, rgb(255, 250, 225) 100%);",
+    "metrics": [
+      "GPU · 102,400 points × 720 steps · 39 ms"
+    ]
+  },
+  {
+    "layer": "sun",
+    "selection": "viridis",
+    "view": "detail-2d",
+    "pressed": "true",
+    "gradient": "background: linear-gradient(90deg, rgb(68, 1, 84) 0%, rgb(71, 45, 123) 12.549%, rgb(59, 82, 139) 25.098%, rgb(44, 114, 142) 37.6471%, rgb(33, 145, 140) 50.1961%, rgb(40, 174, 128) 62.7451%, rgb(94, 201, 98) 75.2941%, rgb(173, 220, 48) 87.8431%, rgb(253, 231, 37) 100%);",
+    "metrics": [
+      "GPU · 102,400 points × 720 steps · 39 ms"
+    ]
+  },
+  {
+    "layer": "earth",
+    "selection": "default",
+    "view": "detail-2d",
+    "pressed": "true",
+    "gradient": "background: linear-gradient(90deg, rgb(6, 10, 25) 0%, rgb(30, 90, 190) 50%, rgb(170, 220, 255) 100%);",
+    "metrics": [
+      "GPU · 102,400 points × 720 steps · 39 ms"
+    ]
+  },
+  {
+    "layer": "earth",
+    "selection": "viridis",
+    "view": "detail-2d",
+    "pressed": "true",
+    "gradient": "background: linear-gradient(90deg, rgb(68, 1, 84) 0%, rgb(71, 45, 123) 12.549%, rgb(59, 82, 139) 25.098%, rgb(44, 114, 142) 37.6471%, rgb(33, 145, 140) 50.1961%, rgb(40, 174, 128) 62.7451%, rgb(94, 201, 98) 75.2941%, rgb(173, 220, 48) 87.8431%, rgb(253, 231, 37) 100%);",
+    "metrics": [
+      "GPU · 102,400 points × 720 steps · 39 ms"
+    ]
+  },
+  {
+    "layer": "link",
+    "selection": "default",
+    "view": "detail-2d",
+    "pressed": "true",
+    "gradient": "background: linear-gradient(90deg, rgb(6, 14, 14) 0%, rgb(25, 140, 100) 50%, rgb(180, 255, 210) 100%);",
+    "metrics": [
+      "GPU · 102,400 points × 720 steps · 39 ms"
+    ]
+  },
+  {
+    "layer": "link",
+    "selection": "viridis",
+    "view": "detail-2d",
+    "pressed": "true",
+    "gradient": "background: linear-gradient(90deg, rgb(68, 1, 84) 0%, rgb(71, 45, 123) 12.549%, rgb(59, 82, 139) 25.098%, rgb(44, 114, 142) 37.6471%, rgb(33, 145, 140) 50.1961%, rgb(40, 174, 128) 62.7451%, rgb(94, 201, 98) 75.2941%, rgb(173, 220, 48) 87.8431%, rgb(253, 231, 37) 100%);",
+    "metrics": [
+      "GPU · 102,400 points × 720 steps · 39 ms"
+    ]
+  },
+  {
+    "layer": "night",
+    "selection": "default",
+    "view": "detail-2d",
+    "pressed": "true",
+    "gradient": "background: linear-gradient(90deg, rgb(61, 220, 151) 0%, rgb(255, 200, 70) 35%, rgb(255, 93, 108) 70%, rgb(90, 20, 40) 100%);",
+    "metrics": [
+      "GPU · 102,400 points × 720 steps · 39 ms"
+    ]
+  },
+  {
+    "layer": "night",
+    "selection": "viridis",
+    "view": "detail-2d",
+    "pressed": "true",
+    "gradient": "background: linear-gradient(90deg, rgb(68, 1, 84) 0%, rgb(71, 45, 123) 12.549%, rgb(59, 82, 139) 25.098%, rgb(44, 114, 142) 37.6471%, rgb(33, 145, 140) 50.1961%, rgb(40, 174, 128) 62.7451%, rgb(94, 201, 98) 75.2941%, rgb(173, 220, 48) 87.8431%, rgb(253, 231, 37) 100%);",
+    "metrics": [
+      "GPU · 102,400 points × 720 steps · 39 ms"
+    ]
+  },
+  {
+    "layer": "temp",
+    "selection": "default",
+    "view": "detail-2d",
+    "pressed": "true",
+    "gradient": "background: linear-gradient(90deg, rgb(30, 20, 90) 0%, rgb(40, 90, 220) 14%, rgb(60, 200, 230) 28%, rgb(240, 220, 90) 48%, rgb(250, 110, 50) 72%, rgb(220, 40, 60) 90%, rgb(255, 200, 220) 100%);",
+    "metrics": [
+      "GPU · 102,400 points × 720 steps × 14 soil layers · 154 ms"
+    ]
+  },
+  {
+    "layer": "temp",
+    "selection": "viridis",
+    "view": "detail-2d",
+    "pressed": "true",
+    "gradient": "background: linear-gradient(90deg, rgb(68, 1, 84) 0%, rgb(71, 45, 123) 12.549%, rgb(59, 82, 139) 25.098%, rgb(44, 114, 142) 37.6471%, rgb(33, 145, 140) 50.1961%, rgb(40, 174, 128) 62.7451%, rgb(94, 201, 98) 75.2941%, rgb(173, 220, 48) 87.8431%, rgb(253, 231, 37) 100%);",
+    "metrics": [
+      "GPU · 102,400 points × 720 steps × 14 soil layers · 154 ms"
+    ]
+  },
+  {
+    "layer": "sun",
+    "selection": "default",
+    "view": "globe-3d",
+    "pressed": "true",
+    "gradient": "background: linear-gradient(90deg, rgb(8, 8, 20) 0%, rgb(90, 30, 70) 25%, rgb(220, 90, 40) 55%, rgb(255, 181, 71) 80%, rgb(255, 250, 225) 100%);",
+    "metrics": [
+      "GPU · 102,400 points × 720 steps · 36 ms",
+      "Whole Moon · 2,216,448 points × 720 steps · 179 ms"
+    ]
+  },
+  {
+    "layer": "sun",
+    "selection": "viridis",
+    "view": "globe-3d",
+    "pressed": "true",
+    "gradient": "background: linear-gradient(90deg, rgb(68, 1, 84) 0%, rgb(71, 45, 123) 12.549%, rgb(59, 82, 139) 25.098%, rgb(44, 114, 142) 37.6471%, rgb(33, 145, 140) 50.1961%, rgb(40, 174, 128) 62.7451%, rgb(94, 201, 98) 75.2941%, rgb(173, 220, 48) 87.8431%, rgb(253, 231, 37) 100%);",
+    "metrics": [
+      "GPU · 102,400 points × 720 steps · 36 ms",
+      "Whole Moon · 2,216,448 points × 720 steps · 179 ms"
+    ]
+  },
+  {
+    "layer": "earth",
+    "selection": "default",
+    "view": "globe-3d",
+    "pressed": "true",
+    "gradient": "background: linear-gradient(90deg, rgb(6, 10, 25) 0%, rgb(30, 90, 190) 50%, rgb(170, 220, 255) 100%);",
+    "metrics": [
+      "GPU · 102,400 points × 720 steps · 36 ms",
+      "Whole Moon · 2,216,448 points × 720 steps · 179 ms"
+    ]
+  },
+  {
+    "layer": "earth",
+    "selection": "viridis",
+    "view": "globe-3d",
+    "pressed": "true",
+    "gradient": "background: linear-gradient(90deg, rgb(68, 1, 84) 0%, rgb(71, 45, 123) 12.549%, rgb(59, 82, 139) 25.098%, rgb(44, 114, 142) 37.6471%, rgb(33, 145, 140) 50.1961%, rgb(40, 174, 128) 62.7451%, rgb(94, 201, 98) 75.2941%, rgb(173, 220, 48) 87.8431%, rgb(253, 231, 37) 100%);",
+    "metrics": [
+      "GPU · 102,400 points × 720 steps · 36 ms",
+      "Whole Moon · 2,216,448 points × 720 steps · 179 ms"
+    ]
+  },
+  {
+    "layer": "link",
+    "selection": "default",
+    "view": "globe-3d",
+    "pressed": "true",
+    "gradient": "background: linear-gradient(90deg, rgb(6, 14, 14) 0%, rgb(25, 140, 100) 50%, rgb(180, 255, 210) 100%);",
+    "metrics": [
+      "GPU · 102,400 points × 720 steps · 36 ms",
+      "Whole Moon · 2,216,448 points × 720 steps · 179 ms"
+    ]
+  },
+  {
+    "layer": "link",
+    "selection": "viridis",
+    "view": "globe-3d",
+    "pressed": "true",
+    "gradient": "background: linear-gradient(90deg, rgb(68, 1, 84) 0%, rgb(71, 45, 123) 12.549%, rgb(59, 82, 139) 25.098%, rgb(44, 114, 142) 37.6471%, rgb(33, 145, 140) 50.1961%, rgb(40, 174, 128) 62.7451%, rgb(94, 201, 98) 75.2941%, rgb(173, 220, 48) 87.8431%, rgb(253, 231, 37) 100%);",
+    "metrics": [
+      "GPU · 102,400 points × 720 steps · 36 ms",
+      "Whole Moon · 2,216,448 points × 720 steps · 179 ms"
+    ]
+  },
+  {
+    "layer": "night",
+    "selection": "default",
+    "view": "globe-3d",
+    "pressed": "true",
+    "gradient": "background: linear-gradient(90deg, rgb(61, 220, 151) 0%, rgb(255, 200, 70) 35%, rgb(255, 93, 108) 70%, rgb(90, 20, 40) 100%);",
+    "metrics": [
+      "GPU · 102,400 points × 720 steps · 36 ms",
+      "Whole Moon · 2,216,448 points × 720 steps · 179 ms"
+    ]
+  },
+  {
+    "layer": "night",
+    "selection": "viridis",
+    "view": "globe-3d",
+    "pressed": "true",
+    "gradient": "background: linear-gradient(90deg, rgb(68, 1, 84) 0%, rgb(71, 45, 123) 12.549%, rgb(59, 82, 139) 25.098%, rgb(44, 114, 142) 37.6471%, rgb(33, 145, 140) 50.1961%, rgb(40, 174, 128) 62.7451%, rgb(94, 201, 98) 75.2941%, rgb(173, 220, 48) 87.8431%, rgb(253, 231, 37) 100%);",
+    "metrics": [
+      "GPU · 102,400 points × 720 steps · 36 ms",
+      "Whole Moon · 2,216,448 points × 720 steps · 179 ms"
+    ]
+  },
+  {
+    "layer": "temp",
+    "selection": "default",
+    "view": "globe-3d",
+    "pressed": "true",
+    "gradient": "background: linear-gradient(90deg, rgb(30, 20, 90) 0%, rgb(40, 90, 220) 14%, rgb(60, 200, 230) 28%, rgb(240, 220, 90) 48%, rgb(250, 110, 50) 72%, rgb(220, 40, 60) 90%, rgb(255, 200, 220) 100%);",
+    "metrics": [
+      "GPU · 102,400 points × 720 steps × 14 soil layers · 164 ms",
+      "Whole Moon · 2,216,448 points × 720 steps · 476 ms"
+    ]
+  },
+  {
+    "layer": "temp",
+    "selection": "viridis",
+    "view": "globe-3d",
+    "pressed": "true",
+    "gradient": "background: linear-gradient(90deg, rgb(68, 1, 84) 0%, rgb(71, 45, 123) 12.549%, rgb(59, 82, 139) 25.098%, rgb(44, 114, 142) 37.6471%, rgb(33, 145, 140) 50.1961%, rgb(40, 174, 128) 62.7451%, rgb(94, 201, 98) 75.2941%, rgb(173, 220, 48) 87.8431%, rgb(253, 231, 37) 100%);",
+    "metrics": [
+      "GPU · 102,400 points × 720 steps × 14 soil layers · 164 ms",
+      "Whole Moon · 2,216,448 points × 720 steps · 476 ms"
+    ]
+  }
+]
