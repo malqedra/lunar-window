@@ -1,0 +1,32 @@
+{
+  "rebuild_byte_identical": true,
+  "sha256": {
+    "field_ridge_b.json": "3385eb3d427e6f3b78e2caf51075c8473ac2633d161452c067567389ac5830de",
+    "field_ridge_b.bin.gz": "fb5159729abb41d1c236c7fd8248743a95e740f254f2bba9b8fdd777f1a3ea86",
+    "heights_ridge_b.bin.gz": "8266806279bdbc0956487875dc05fd89e83b15a3ecdc8dc5c6111172a5e78426",
+    "slope_ridge_b.bin.gz": "47088311f6d6583c7664a852a5e86c06c43165958c6ae89dc69968bbd58b9b6a"
+  },
+  "shared_points": 100,
+  "shared_direction_comparisons": 18000,
+  "shared_max_error_deg": 0.0,
+  "shared_mean_error_deg": 0.0,
+  "full_engine_comparisons": 11250000,
+  "full_engine_encoded_bytes_equal": true,
+  "independent_python_points": 49,
+  "independent_python_max_error_deg": 2.86102294921875e-05,
+  "mesh_heights_checked": 1000000,
+  "max_height_rounding_error_m": 0.5,
+  "raw_horizon_range_deg": [
+    -3.928645610809326,
+    37.49140167236328
+  ],
+  "quantization_max_error_deg_unclipped": 0.0500017166137674,
+  "clipped_above_17_5_deg": 296856,
+  "clipped_below_minus_8_deg": 0,
+  "compressed_bytes": {
+    "field_ridge_b.json": 1146,
+    "field_ridge_b.bin.gz": 2707424,
+    "heights_ridge_b.bin.gz": 274646,
+    "slope_ridge_b.bin.gz": 56446
+  }
+}
