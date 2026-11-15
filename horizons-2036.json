@@ -1,0 +1,50 @@
+{
+  "source": "https://ssd.jpl.nasa.gov/api/horizons.api",
+  "year": 2036,
+  "step": "30 d",
+  "toleranceDeg": 0.001,
+  "cases": [
+    {
+      "site": "connecting-ridge-b",
+      "body": "Sun",
+      "samples": 13,
+      "maxAzDifferenceDeg": 5.654369658714131e-06,
+      "maxElDifferenceDeg": 1.1561864676767897e-05
+    },
+    {
+      "site": "connecting-ridge-b",
+      "body": "Earth",
+      "samples": 13,
+      "maxAzDifferenceDeg": 5.073389274912188e-06,
+      "maxElDifferenceDeg": 1.9058704692653805e-05
+    },
+    {
+      "site": "malapert-m1",
+      "body": "Sun",
+      "samples": 13,
+      "maxAzDifferenceDeg": 5.803220346933813e-06,
+      "maxElDifferenceDeg": 1.1217230567184266e-05
+    },
+    {
+      "site": "malapert-m1",
+      "body": "Earth",
+      "samples": 13,
+      "maxAzDifferenceDeg": 5.804828987265864e-06,
+      "maxElDifferenceDeg": 1.8227052416719403e-05
+    },
+    {
+      "site": "apollo-11",
+      "body": "Sun",
+      "samples": 13,
+      "maxAzDifferenceDeg": 1.2257909304480563e-05,
+      "maxElDifferenceDeg": 5.473510876541354e-06
+    },
+    {
+      "site": "apollo-11",
+      "body": "Earth",
+      "samples": 13,
+      "maxAzDifferenceDeg": 3.3241888672819186e-05,
+      "maxElDifferenceDeg": 1.6172504842870694e-05
+    }
+  ]
+}

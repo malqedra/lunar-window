@@ -1,0 +1,4 @@
+{
+  "text": "Find a landing spot\nScores every 250 m cell in the 80 × 80 km polar area\n✕\nLANDING TIME\n2036-12-01 00:00 UTC\nSet it with the timeline below\nMISSION LENGTH\n3 d\n7 d\n14 d\n30 d\n90 d\nLONGEST NIGHT THE BATTERY CAN SURVIVE\nNo night\n≤ 24 h\n≤ 50 h\n≤ 100 h\nAny\nFLAT GROUND (SLOPE UNDER 10°) AT LEAST\n0%\n25%\n50%\n75%\nPRIORITY\nBalanced\nMax power\nMax comms\nSafest ground\nSearch 102,400 spots\n102,400 spots × 720 h scored on the GPU in 89 ms · 0 ruled out\n#1\n59\n☀ 60%\n⇅ 41%\n☾ 10.2 d\n▱ 100%\n#2\n58\n☀ 53%\n⇅ 47%\n☾ 9.8 d\n▱ 100%\n#3\n56\n☀ 52%\n⇅ 43%\n☾ 10.3 d\n▱ 100%\n#4\n56\n☀ 55%\n⇅ 41%\n☾ 11.6 d\n▱ 90%\n#5\n54\n☀ 59%\n⇅ 27%\n☾ 11.9 d\n▱ 100%\n#6\n52\n☀ 46%\n⇅ 41%\n☾ 10.8 d\n▱ 94%\n#7\n49\n☀ 43%\n⇅ 38%\n☾ 10.4 d\n▱ 88%\n#8\n49\n☀ 49%\n⇅ 26%\n☾ 10.7 d\n▱ 100%\n#9\n48\n☀ 42%\n⇅ 37%\n☾ 10.8 d\n▱ 100%\n#10\n47\n☀ 42%\n⇅ 37%\n☾ 11.3 d\n▱ 89%\n☀ sunlit · ⇅ Sun + Earth + DSN at once · ☾ longest night · ▱ flat ground",
+  "resultCount": 10
+}

@@ -1,0 +1,5 @@
+{
+  "before": "Landing dates\nSmall CLPS lander · 14-day mission · every 12 h · 2,520 missions simulated in 8 ms\n7 d\n14 d\n30 d\n3 mo\n6 mo\n12 mo\n✕\n survives  lasts 75%+  40%+  dies early · polar sites (pin 2+ to choose your own) · no date survives the full mission with this lander. Try Sun-tracking panels or a bigger battery in Lander sim",
+  "afterTransport": "Play\n−1d\n+1d\n● Rec\n1 h/s\n6 h/s\n1 d/s\n4 d/s\n7d\n30d\n90d\n365d\n2036-11-19 00:00 UTC",
+  "afterFoot": " survives  lasts 75%+  40%+  dies early · polar sites (pin 2+ to choose your own) · most forgiving: Malapert Mountain (4% of dates work)"
+}

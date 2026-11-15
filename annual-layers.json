@@ -1,0 +1,26 @@
+[
+  {
+    "layer": "Sun %",
+    "legend": "Sunlight %\n0%\n100%\nShare of time the Sun is visible\n2036-01-02 → 2037-01-01\nGPU · 102,400 points × 1,752 steps · 165 ms\nWhole Moon · 2,216,448 points × 1,460 steps · 336 ms\nDetailed area: south pole (C++ engine, 40 m)"
+  },
+  {
+    "layer": "Earth %",
+    "legend": "Earth in view %\n0%\n100%\nShare of time Earth is above the terrain\n2036-01-02 → 2037-01-01\nGPU · 102,400 points × 1,752 steps · 165 ms\nWhole Moon · 2,216,448 points × 1,460 steps · 336 ms\nDetailed area: south pole (C++ engine, 40 m)"
+  },
+  {
+    "layer": "Sun+DSN",
+    "legend": "Power + comms %\n0%\n100%\nSun up, Earth up and a DSN dish seeing the Moon, all at once\n2036-01-02 → 2037-01-01\nGPU · 102,400 points × 1,752 steps · 165 ms\nWhole Moon · 2,216,448 points × 1,460 steps · 336 ms\nDetailed area: south pole (C++ engine, 40 m)"
+  },
+  {
+    "layer": "Night",
+    "legend": "Longest night\n0 d\n≥ 30 d\nLongest continuous stretch without sunlight\n2036-01-02 → 2037-01-01\nGPU · 102,400 points × 1,752 steps · 165 ms\nWhole Moon · 2,216,448 points × 1,460 steps · 336 ms\nDetailed area: south pole (C++ engine, 40 m)"
+  },
+  {
+    "layer": "Temp",
+    "legend": "Max surface temperature\n20 K\n400 K\nHottest the ground gets in the period, from a heat-flow model of the soil run for every point on your GPU (sunlight on the real slope and horizon, heat soaking into the ground, glowing back to space)\n2036-01-02 → 2037-01-01\nGPU · 102,400 points × 2,190 steps × 14 soil layers · 334 ms\nSoil physics from Hayne et al. 2017 (Diviner). Leaves out light and heat bounced off nearby slopes, so the darkest crater floors come out colder than measured (~25 K vs 30–50 K).\nWhole Moon · 2,216,448 points × 1,460 steps · 1785 ms\nDetailed area: south pole (C++ engine, 40 m)"
+  },
+  {
+    "layer": "❄ Ice",
+    "legend": "Water ice stability\n≤ 80 cm down\nat surface\nWhere water ice can survive: it stays put wherever the warmest temperature all year is below 110 K. Bright = stable right at the surface, darker blue = stable once you dig down. Uses a full year of sunlight.\n2036-01-02 → 2037-01-01\nGPU · 102,400 points × 2,190 steps × 14 soil layers · 334 ms\nSoil physics from Hayne et al. 2017 (Diviner). Leaves out light and heat bounced off nearby slopes, so the darkest crater floors come out colder than measured (~25 K vs 30–50 K).\nWhole Moon · 2,216,448 points × 1,460 steps · 1785 ms\nDetailed area: south pole (C++ engine, 40 m)"
+  }
+]
