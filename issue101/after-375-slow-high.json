@@ -1,0 +1,377 @@
+{
+  "before": false,
+  "controlledFrameTimestamps": true,
+  "controlledVisibility": true,
+  "errors": [],
+  "samples": 6044,
+  "decisions": [
+    {
+      "now": 14100,
+      "slow": true
+    },
+    {
+      "now": 22100,
+      "slow": true
+    },
+    {
+      "now": 30100,
+      "slow": true
+    },
+    {
+      "now": 38100,
+      "slow": true
+    },
+    {
+      "now": 46100,
+      "slow": true
+    },
+    {
+      "now": 54100,
+      "slow": true
+    },
+    {
+      "now": 62100,
+      "slow": true
+    },
+    {
+      "now": 70100,
+      "slow": true
+    },
+    {
+      "now": 78100,
+      "slow": true
+    },
+    {
+      "now": 86100,
+      "slow": true
+    },
+    {
+      "now": 94100,
+      "slow": true
+    },
+    {
+      "now": 102100,
+      "slow": true
+    },
+    {
+      "now": 110100,
+      "slow": true
+    },
+    {
+      "now": 118100,
+      "slow": true
+    },
+    {
+      "now": 126100,
+      "slow": true
+    },
+    {
+      "now": 143100,
+      "slow": true
+    },
+    {
+      "now": 151100,
+      "slow": true
+    },
+    {
+      "now": 159100,
+      "slow": true
+    },
+    {
+      "now": 167100,
+      "slow": true
+    },
+    {
+      "now": 175100,
+      "slow": true
+    },
+    {
+      "now": 183100,
+      "slow": true
+    },
+    {
+      "now": 201900,
+      "slow": true
+    },
+    {
+      "now": 209916.66666666625,
+      "slow": true
+    },
+    {
+      "now": 217933.33333332825,
+      "slow": false
+    },
+    {
+      "now": 225949.99999999025,
+      "slow": false
+    },
+    {
+      "now": 233966.66666665225,
+      "slow": false
+    },
+    {
+      "now": 241983.33333331774,
+      "slow": false
+    },
+    {
+      "now": 249983.33333331774,
+      "slow": true
+    },
+    {
+      "now": 257983.33333331774,
+      "slow": true
+    },
+    {
+      "now": 265983.3333333178,
+      "slow": true
+    },
+    {
+      "now": 273983.3333333178,
+      "slow": true
+    },
+    {
+      "now": 281983.3333333178,
+      "slow": true
+    },
+    {
+      "now": 289983.3333333178,
+      "slow": true
+    },
+    {
+      "now": 311083.3333333322,
+      "slow": false
+    },
+    {
+      "now": 319083.3333333415,
+      "slow": false
+    },
+    {
+      "now": 327133.3333333438,
+      "slow": false
+    },
+    {
+      "now": 335133.3333333438,
+      "slow": true
+    },
+    {
+      "now": 343133.3333333438,
+      "slow": true
+    },
+    {
+      "now": 351133.3333333438,
+      "slow": true
+    },
+    {
+      "now": 359133.3333333438,
+      "slow": true
+    },
+    {
+      "now": 367133.3333333438,
+      "slow": true
+    },
+    {
+      "now": 375133.3333333438,
+      "slow": true
+    },
+    {
+      "now": 383133.3333333438,
+      "slow": true
+    },
+    {
+      "now": 391133.3333333438,
+      "slow": true
+    },
+    {
+      "now": 399133.3333333438,
+      "slow": true
+    },
+    {
+      "now": 407133.3333333438,
+      "slow": true
+    },
+    {
+      "now": 415133.3333333438,
+      "slow": true
+    },
+    {
+      "now": 423133.3333333438,
+      "slow": true
+    },
+    {
+      "now": 431133.3333333438,
+      "slow": true
+    },
+    {
+      "now": 439133.3333333438,
+      "slow": true
+    },
+    {
+      "now": 447133.3333333438,
+      "slow": true
+    },
+    {
+      "now": 455133.3333333438,
+      "slow": true
+    },
+    {
+      "now": 463133.3333333438,
+      "slow": true
+    },
+    {
+      "now": 471133.3333333438,
+      "slow": true
+    },
+    {
+      "now": 479133.3333333438,
+      "slow": true
+    },
+    {
+      "now": 487133.3333333438,
+      "slow": true
+    },
+    {
+      "now": 495133.3333333438,
+      "slow": true
+    },
+    {
+      "now": 503133.3333333438,
+      "slow": true
+    },
+    {
+      "now": 511133.3333333438,
+      "slow": true
+    },
+    {
+      "now": 519133.3333333438,
+      "slow": true
+    },
+    {
+      "now": 527233.3333333437,
+      "slow": true
+    },
+    {
+      "now": 535233.3333333437,
+      "slow": true
+    },
+    {
+      "now": 543233.3333333437,
+      "slow": true
+    },
+    {
+      "now": 551233.3333333437,
+      "slow": true
+    },
+    {
+      "now": 559233.3333333437,
+      "slow": true
+    },
+    {
+      "now": 567233.3333333437,
+      "slow": true
+    },
+    {
+      "now": 575233.3333333437,
+      "slow": true
+    },
+    {
+      "now": 583233.3333333437,
+      "slow": true
+    },
+    {
+      "now": 591233.3333333437,
+      "slow": true
+    },
+    {
+      "now": 599233.3333333437,
+      "slow": true
+    },
+    {
+      "now": 607233.3333333437,
+      "slow": true
+    },
+    {
+      "now": 615233.3333333437,
+      "slow": true
+    },
+    {
+      "now": 623233.3333333437,
+      "slow": true
+    },
+    {
+      "now": 631233.3333333437,
+      "slow": true
+    },
+    {
+      "now": 639233.3333333437,
+      "slow": true
+    },
+    {
+      "now": 647233.3333333437,
+      "slow": true
+    },
+    {
+      "now": 655233.3333333437,
+      "slow": true
+    },
+    {
+      "now": 663233.3333333437,
+      "slow": true
+    },
+    {
+      "now": 671233.3333333437,
+      "slow": true
+    }
+  ],
+  "clock": 675933.3333333437,
+  "visible": true,
+  "sceneReady": true,
+  "quality": "high",
+  "playing": true,
+  "hour": 8296.707600000298,
+  "noticeText": "Playback is running slowly. Try Balanced graphics for smoother playback.Use BalancedKeep High",
+  "noticeVisible": true,
+  "actions": [
+    {
+      "text": "Use Balanced",
+      "receivesPointer": true
+    },
+    {
+      "text": "Keep High",
+      "receivesPointer": true
+    }
+  ],
+  "noticeRect": {
+    "x": 12,
+    "y": 653.3250122070312,
+    "width": 287.20001220703125,
+    "height": 92.67500305175781
+  },
+  "viewport": {
+    "width": 375,
+    "height": 812
+  },
+  "overflow": false,
+  "pendingTrace": null,
+  "gpu": {
+    "width": 1600,
+    "height": 900,
+    "samplesMs": [
+      45.9264,
+      43.29984,
+      42.70592,
+      28.719104,
+      5.475328,
+      5.444608,
+      5.41184,
+      5.412864,
+      5.438464,
+      5.458944,
+      5.47328,
+      5.489664,
+      5.43744,
+      5.43232
+    ],
+    "medianMs": 5.47328
+  },
+  "name": "slow-high"
+}

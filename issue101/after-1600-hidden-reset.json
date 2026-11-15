@@ -1,0 +1,179 @@
+{
+  "before": false,
+  "controlledFrameTimestamps": true,
+  "controlledVisibility": true,
+  "errors": [],
+  "samples": 2335,
+  "decisions": [
+    {
+      "now": 14100,
+      "slow": true
+    },
+    {
+      "now": 22100,
+      "slow": true
+    },
+    {
+      "now": 30100,
+      "slow": true
+    },
+    {
+      "now": 38100,
+      "slow": true
+    },
+    {
+      "now": 46100,
+      "slow": true
+    },
+    {
+      "now": 54100,
+      "slow": true
+    },
+    {
+      "now": 62100,
+      "slow": true
+    },
+    {
+      "now": 70100,
+      "slow": true
+    },
+    {
+      "now": 78100,
+      "slow": true
+    },
+    {
+      "now": 86100,
+      "slow": true
+    },
+    {
+      "now": 94100,
+      "slow": true
+    },
+    {
+      "now": 102100,
+      "slow": true
+    },
+    {
+      "now": 110100,
+      "slow": true
+    },
+    {
+      "now": 118100,
+      "slow": true
+    },
+    {
+      "now": 126100,
+      "slow": true
+    },
+    {
+      "now": 143100,
+      "slow": true
+    },
+    {
+      "now": 151100,
+      "slow": true
+    },
+    {
+      "now": 159100,
+      "slow": true
+    },
+    {
+      "now": 167100,
+      "slow": true
+    },
+    {
+      "now": 175100,
+      "slow": true
+    },
+    {
+      "now": 183100,
+      "slow": true
+    },
+    {
+      "now": 201900,
+      "slow": true
+    },
+    {
+      "now": 209916.66666666625,
+      "slow": true
+    },
+    {
+      "now": 217933.33333332825,
+      "slow": false
+    },
+    {
+      "now": 225949.99999999025,
+      "slow": false
+    },
+    {
+      "now": 233966.66666665225,
+      "slow": false
+    },
+    {
+      "now": 241983.33333331774,
+      "slow": false
+    },
+    {
+      "now": 249983.33333331774,
+      "slow": true
+    },
+    {
+      "now": 257983.33333331774,
+      "slow": true
+    },
+    {
+      "now": 265983.3333333178,
+      "slow": true
+    },
+    {
+      "now": 273983.3333333178,
+      "slow": true
+    },
+    {
+      "now": 281983.3333333178,
+      "slow": true
+    },
+    {
+      "now": 289983.3333333178,
+      "slow": true
+    }
+  ],
+  "clock": 296983.3333333178,
+  "visible": false,
+  "sceneReady": true,
+  "quality": "high",
+  "playing": true,
+  "hour": 7903.254000000133,
+  "noticeText": null,
+  "noticeVisible": false,
+  "actions": [],
+  "noticeRect": null,
+  "viewport": {
+    "width": 1600,
+    "height": 900
+  },
+  "overflow": false,
+  "pendingTrace": null,
+  "gpu": {
+    "width": 1600,
+    "height": 900,
+    "samplesMs": [
+      45.9264,
+      43.29984,
+      42.70592,
+      28.719104,
+      5.475328,
+      5.444608,
+      5.41184,
+      5.412864,
+      5.438464,
+      5.458944,
+      5.47328,
+      5.489664,
+      5.43744,
+      5.43232
+    ],
+    "medianMs": 5.47328
+  },
+  "name": "hidden-reset"
+}

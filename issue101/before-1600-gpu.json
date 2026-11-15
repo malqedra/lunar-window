@@ -1,0 +1,48 @@
+{
+  "before": true,
+  "controlledFrameTimestamps": true,
+  "controlledVisibility": true,
+  "errors": [],
+  "samples": 0,
+  "decisions": [],
+  "clock": 0,
+  "visible": true,
+  "sceneReady": true,
+  "quality": "high",
+  "playing": false,
+  "hour": 7635,
+  "noticeText": null,
+  "noticeVisible": false,
+  "actions": [],
+  "noticeRect": null,
+  "viewport": {
+    "width": 1600,
+    "height": 900
+  },
+  "overflow": false,
+  "pendingTrace": null,
+  "gpu": {
+    "quality": "high",
+    "warmupFrames": 60,
+    "width": 1600,
+    "height": 900,
+    "samplesMs": [
+      6.171648,
+      6.188032,
+      6.202368,
+      6.192128,
+      6.137856,
+      6.188032,
+      6.163456,
+      6.332416,
+      6.264832,
+      6.368256,
+      6.31296,
+      6.26688,
+      6.243328,
+      6.324224
+    ],
+    "medianMs": 6.243328
+  },
+  "name": "gpu"
+}
